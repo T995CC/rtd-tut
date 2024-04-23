@@ -1,5 +1,12 @@
-Welcome to Lumache's documentation!
-===================================
+Discord Server Grinder System - by hexa.org
+===========================================
+
+Primarily used in Dank Memer bot community servers, this Grinder System:
+ - Is fully automatic
+ - Has 20+ unique features
+ - Is aesthetically pleasing
+ - Offers heavy customization
+ - Is easy to grasp
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
