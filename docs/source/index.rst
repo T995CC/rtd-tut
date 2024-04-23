@@ -1,7 +1,7 @@
 Discord Server Grinder System - by hexa.org
 ===========================================
 
-Primarily used in Dank Memer bot community servers, this Grinder System:
+Primarily used in *Dank Memer bot* community servers, this Grinder System:
  - Is fully automatic
  - Has 20+ unique features
  - Is aesthetically pleasing
